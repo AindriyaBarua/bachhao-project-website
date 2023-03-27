@@ -2,7 +2,7 @@
 
 After discussing with the team, we decided to make a website that would cater to victims of hate speech. It would be a website that would show up when a person searches what to do when they are being abused online.
 
-### User documentation:  
+## User documentation:  
 ### What the website does:  
 The website helps the victim realise they aren’t powerless when subjected to hate speech or online violence.
 The website acts as an accumulator of three kinds of resources:
@@ -13,7 +13,7 @@ An updated compilation of measures social media platforms themselves provide to 
 ### Mental Health Resources:  
 From personal experience, mass trolling and hate speech may lead to panic attacks, anxiety, etc, so we also thought of adding a compilation of mental health professionals they could seek.  
 
-### Developer documentation: 
+## Developer documentation: 
 
 The site was first developed as part of another website for Shor.ai where a hate speech bot would be downloadable, hence it has the name Ari as a place holder name for the website, which you can change by finding and replacing the word with new name.  
 
