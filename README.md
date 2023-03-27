@@ -18,3 +18,5 @@ From personal experience, mass trolling and hate speech may lead to panic attack
 The site was first developed as part of another website for Shor.ai where a hate speech bot would be downloadable, hence it has the name Ari as a place holder name for the website, which you can change by finding and replacing the word with new name.  
 
 There are place holders for texts to add later. The fuction names are self-explanatory but there are also comments explaining what the functions do.
+
+The backend is done with Flask and python. The legal.html has the dynamic code with javascript, and other parts are static.
