@@ -20,3 +20,7 @@ The site was first developed as part of another website for Shor.ai where a hate
 There are place holders for texts to add later. The fuction names are self-explanatory but there are also comments explaining what the functions do.
 
 The backend is done with Flask and python. The legal.html has the dynamic code with javascript, and other parts are static.
+
+The original website is hosted here: https://aindriyabarua.github.io/hateseech-bot-website/  
+This version is just a lighter version without my personal work.
+
